@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-# Hello
+# My First GitHub Repository
 
-# Hi
+Is anyone there? Oh, hi.
